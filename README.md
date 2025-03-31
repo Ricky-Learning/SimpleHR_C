@@ -1,5 +1,7 @@
 # SimpleHR_C
 
+Using a C language struct to manage employee information. The program allows users to input an employee’s name, age, salary, and email, which are then stored in a struct called "Employees." Afterward, the program displays the entered details.
+
 ### 🔹 這段程式在做什麼？  
 這是一個 **C 語言結構 (struct)** 的應用範例，程式用來 **儲存和顯示員工資料**。當使用者輸入一名員工的 **姓名、年齡、薪水** 和 **電子郵件**，程式會將這些資訊儲存到結構 (`struct Employees`) 中，然後再顯示出來。  
 
